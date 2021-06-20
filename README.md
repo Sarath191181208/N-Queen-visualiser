@@ -1,5 +1,5 @@
 # N-Queen-visualiser
-its a visualiser of the problem N
+its a visualiser of the problem N Queen
 
 # The NQuenn problem is as follows
 
